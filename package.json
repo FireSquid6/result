@@ -1,7 +1,14 @@
 {
-  "name": "result",
+  "name": "@firesquid/result",
   "module": "index.ts",
   "type": "module",
+  "version": "1.0.0",
+  "description": "A simple result type that allows for error handling patterns similar to Go",
+  "keywords": ["result", "go", "error", "handling", "option", "maybe"],
+  "homepage": "https://github.com/firesquid6/result",
+  "bugs": "https://github.com/firesquid6/result/issues",
+  "license": "MIT",
+  "author": "Jonathan Deiss <me@jdeiss.com> (https://jdeiss.com)",
   "devDependencies": {
     "@types/bun": "latest"
   },
