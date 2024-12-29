@@ -1,0 +1,7 @@
+.gitignore
+.direnv
+.README.md
+flake.lock
+flake.nix
+example.ts
+node_modules
