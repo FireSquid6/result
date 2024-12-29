@@ -5,3 +5,4 @@ flake.lock
 flake.nix
 example.ts
 node_modules
+.envrc
